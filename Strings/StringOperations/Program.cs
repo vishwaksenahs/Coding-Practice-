@@ -12,7 +12,7 @@ namespace StringOperations
         public static void ReverseString(char[] s)
         {
             var j = s.Length - 1;
-            for (i = 0; i < s.Length / 2; i++)
+            for (var i = 0; i < s.Length / 2; i++)
             {
                 var t = s[i];
                 s[i] = s[j];
