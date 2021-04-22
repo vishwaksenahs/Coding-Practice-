@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringReverse", "StringReve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWords", "..\ReverseWords\ReverseWords.csproj", "{24A0AD10-C104-4DD7-9BFC-CCFD70B6A965}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstNonRepeatingCharacter", "..\FirstNonRepeatingCharacter\FirstNonRepeatingCharacter.csproj", "{A328094D-9CDF-49B8-8DAF-959CE5E2CC57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{24A0AD10-C104-4DD7-9BFC-CCFD70B6A965}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24A0AD10-C104-4DD7-9BFC-CCFD70B6A965}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24A0AD10-C104-4DD7-9BFC-CCFD70B6A965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A328094D-9CDF-49B8-8DAF-959CE5E2CC57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A328094D-9CDF-49B8-8DAF-959CE5E2CC57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A328094D-9CDF-49B8-8DAF-959CE5E2CC57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A328094D-9CDF-49B8-8DAF-959CE5E2CC57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
