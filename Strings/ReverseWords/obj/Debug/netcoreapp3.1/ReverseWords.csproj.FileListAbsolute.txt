@@ -1,0 +1,13 @@
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\ReverseWords\bin\Debug\netcoreapp3.1\ReverseWords.exe
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\ReverseWords\bin\Debug\netcoreapp3.1\ReverseWords.deps.json
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\ReverseWords\bin\Debug\netcoreapp3.1\ReverseWords.runtimeconfig.json
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\ReverseWords\bin\Debug\netcoreapp3.1\ReverseWords.runtimeconfig.dev.json
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\ReverseWords\bin\Debug\netcoreapp3.1\ReverseWords.dll
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\ReverseWords\bin\Debug\netcoreapp3.1\ReverseWords.pdb
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\ReverseWords\obj\Debug\netcoreapp3.1\ReverseWords.csprojAssemblyReference.cache
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\ReverseWords\obj\Debug\netcoreapp3.1\ReverseWords.csproj.CoreCompileInputs.cache
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\ReverseWords\obj\Debug\netcoreapp3.1\ReverseWords.AssemblyInfoInputs.cache
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\ReverseWords\obj\Debug\netcoreapp3.1\ReverseWords.AssemblyInfo.cs
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\ReverseWords\obj\Debug\netcoreapp3.1\ReverseWords.dll
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\ReverseWords\obj\Debug\netcoreapp3.1\ReverseWords.pdb
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\ReverseWords\obj\Debug\netcoreapp3.1\ReverseWords.genruntimeconfig.cache
