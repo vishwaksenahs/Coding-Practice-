@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringReverse", "StringReve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWords", "..\ReverseWords\ReverseWords.csproj", "{24A0AD10-C104-4DD7-9BFC-CCFD70B6A965}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstNonRepeatingCharacter", "..\FirstNonRepeatingCharacter\FirstNonRepeatingCharacter.csproj", "{A328094D-9CDF-49B8-8DAF-959CE5E2CC57}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterFrequency", "..\FirstNonRepeatingCharacter\CharacterFrequency.csproj", "{A328094D-9CDF-49B8-8DAF-959CE5E2CC57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

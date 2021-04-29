@@ -1,0 +1,13 @@
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\FirstNonRepeatingCharacter\bin\Debug\netcoreapp3.1\CharacterFrequency.exe
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\FirstNonRepeatingCharacter\bin\Debug\netcoreapp3.1\CharacterFrequency.deps.json
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\FirstNonRepeatingCharacter\bin\Debug\netcoreapp3.1\CharacterFrequency.runtimeconfig.json
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\FirstNonRepeatingCharacter\bin\Debug\netcoreapp3.1\CharacterFrequency.runtimeconfig.dev.json
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\FirstNonRepeatingCharacter\bin\Debug\netcoreapp3.1\CharacterFrequency.dll
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\FirstNonRepeatingCharacter\bin\Debug\netcoreapp3.1\CharacterFrequency.pdb
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\FirstNonRepeatingCharacter\obj\Debug\netcoreapp3.1\CharacterFrequency.csprojAssemblyReference.cache
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\FirstNonRepeatingCharacter\obj\Debug\netcoreapp3.1\CharacterFrequency.csproj.CoreCompileInputs.cache
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\FirstNonRepeatingCharacter\obj\Debug\netcoreapp3.1\CharacterFrequency.AssemblyInfoInputs.cache
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\FirstNonRepeatingCharacter\obj\Debug\netcoreapp3.1\CharacterFrequency.AssemblyInfo.cs
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\FirstNonRepeatingCharacter\obj\Debug\netcoreapp3.1\CharacterFrequency.dll
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\FirstNonRepeatingCharacter\obj\Debug\netcoreapp3.1\CharacterFrequency.pdb
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\FirstNonRepeatingCharacter\obj\Debug\netcoreapp3.1\CharacterFrequency.genruntimeconfig.cache

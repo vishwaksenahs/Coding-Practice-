@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\320088779\\OneDrive - Philips\\document\\GitHub\\Coding-Practice-\\Strings\\FirstNonRepeatingCharacter\\FirstNonRepeatingCharacter.csproj",
-      "projectName": "FirstNonRepeatingCharacter",
-      "projectPath": "C:\\Users\\320088779\\OneDrive - Philips\\document\\GitHub\\Coding-Practice-\\Strings\\FirstNonRepeatingCharacter\\FirstNonRepeatingCharacter.csproj",
+      "projectUniqueName": "C:\\Users\\320088779\\OneDrive - Philips\\document\\GitHub\\Coding-Practice-\\Strings\\FirstNonRepeatingCharacter\\CharacterFrequencyAndSort.csproj",
+      "projectName": "CharacterFrequencyAndSort",
+      "projectPath": "C:\\Users\\320088779\\OneDrive - Philips\\document\\GitHub\\Coding-Practice-\\Strings\\FirstNonRepeatingCharacter\\CharacterFrequencyAndSort.csproj",
       "packagesPath": "C:\\Users\\320088779\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\320088779\\OneDrive - Philips\\document\\GitHub\\Coding-Practice-\\Strings\\FirstNonRepeatingCharacter\\obj\\",
       "projectStyle": "PackageReference",
