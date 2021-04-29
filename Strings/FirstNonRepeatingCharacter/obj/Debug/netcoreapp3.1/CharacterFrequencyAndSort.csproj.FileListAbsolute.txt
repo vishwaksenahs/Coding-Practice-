@@ -1,0 +1,13 @@
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\FirstNonRepeatingCharacter\bin\Debug\netcoreapp3.1\CharacterFrequencyAndSort.exe
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\FirstNonRepeatingCharacter\bin\Debug\netcoreapp3.1\CharacterFrequencyAndSort.deps.json
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\FirstNonRepeatingCharacter\bin\Debug\netcoreapp3.1\CharacterFrequencyAndSort.runtimeconfig.json
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\FirstNonRepeatingCharacter\bin\Debug\netcoreapp3.1\CharacterFrequencyAndSort.runtimeconfig.dev.json
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\FirstNonRepeatingCharacter\bin\Debug\netcoreapp3.1\CharacterFrequencyAndSort.dll
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\FirstNonRepeatingCharacter\bin\Debug\netcoreapp3.1\CharacterFrequencyAndSort.pdb
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\FirstNonRepeatingCharacter\obj\Debug\netcoreapp3.1\CharacterFrequencyAndSort.csprojAssemblyReference.cache
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\FirstNonRepeatingCharacter\obj\Debug\netcoreapp3.1\CharacterFrequencyAndSort.csproj.CoreCompileInputs.cache
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\FirstNonRepeatingCharacter\obj\Debug\netcoreapp3.1\CharacterFrequencyAndSort.AssemblyInfoInputs.cache
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\FirstNonRepeatingCharacter\obj\Debug\netcoreapp3.1\CharacterFrequencyAndSort.AssemblyInfo.cs
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\FirstNonRepeatingCharacter\obj\Debug\netcoreapp3.1\CharacterFrequencyAndSort.dll
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\FirstNonRepeatingCharacter\obj\Debug\netcoreapp3.1\CharacterFrequencyAndSort.pdb
+C:\Users\320088779\OneDrive - Philips\document\GitHub\Coding-Practice-\Strings\FirstNonRepeatingCharacter\obj\Debug\netcoreapp3.1\CharacterFrequencyAndSort.genruntimeconfig.cache
