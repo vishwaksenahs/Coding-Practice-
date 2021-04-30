@@ -39,3 +39,11 @@ Strings/Palindrome/obj/Debug/netcoreapp3.1/Palindrome.csprojAssemblyReference.ca
 Strings/ReverseWords/obj/Debug/netcoreapp3.1/ReverseWords.csprojAssemblyReference.cache
 Strings/StringOperations/.vs/StringOperations/v16/.suo
 Strings/StringOperations/obj/Debug/netcoreapp3.1/StringReverse.csprojAssemblyReference.cache
+Strings/FirstNonRepeatingCharacter/obj/Debug/netcoreapp3.1/CharacterFrequencyAndSort.csproj.FileListAbsolute.txt
+Strings/FirstNonRepeatingCharacter/obj/Debug/netcoreapp3.1/CharacterFrequencyAndSort.csprojAssemblyReference.cache
+Strings/Palindrome/obj/Debug/netcoreapp3.1/Palindrome.csproj.FileListAbsolute.txt
+Strings/Palindrome/obj/Debug/netcoreapp3.1/Palindrome.csprojAssemblyReference.cache
+Strings/ReverseWords/obj/Debug/netcoreapp3.1/ReverseWords.csprojAssemblyReference.cache
+Strings/StringOperations/.vs/StringOperations/v16/.suo
+Strings/StringOperations/obj/Debug/netcoreapp3.1/StringReverse.csprojAssemblyReference.cache
+*.cache
